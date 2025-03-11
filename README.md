@@ -10,7 +10,7 @@
         Currently pursuing a Ph.D. in Data Science at the Computer Vision Group in Jena, Germany. 
         My research focuses on causal discovery methods and analyzing the impact of climate on ecosystems and Earth’s movements. 
         I have extensive experience working in predictive maintenance, anomaly detection, and sensor data analysis for the rail industry. 
-        I have published research in prestigious journals and conferences. Proficient in Python, machine learning libraries, and frameworks like AWS SageMaker, Spark, and Docker. </p>
+        I have published research in prestigious journals and conferences. Proficient in Python, machine learning libraries, LLMs, and frameworks like AWS SageMaker, and Spark. </p>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=wasimahmadpk&label=Profile%20views&color=0e75b6&style=flat" alt="wasimahmadpk" />
