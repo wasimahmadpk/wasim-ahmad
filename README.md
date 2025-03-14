@@ -6,7 +6,7 @@
 <body >
 <h1 align="center">Hi 👋, I'm Wasim <br> <img  src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="img" style="  height: 205px; width: auto;"></h1>
 
-<p align="center">Data Scientist/Causality Researcher with expertise in <strong>Causal AI</strong>, <strong>machine learning</strong>, and <strong>data-driven decision-making</strong>. 
+<p align="center">Data Scientist/Causality Researcher with expertise in <strong>causal inference</strong>, <strong>machine learning</strong>, and <strong>data-driven decision-making</strong>. 
         Currently pursuing a Ph.D. in Data Science at the Computer Vision Group in Jena, Germany. 
         My research focuses on causal discovery methods and its applications, i.e., climate-ecosystems interactions, geophysical systems and neuroscience. 
         I have extensive experience working in predictive maintenance, anomaly detection, and sensor data analysis for the rail industry. 
