@@ -48,7 +48,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
     </a>
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*TmPTEZkQ4kBiQqZlwVH0MQ.png" alt="pytorch" width="50" height="40"/>
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*TmPTEZkQ4kBiQqZlwVH0MQ.png" alt="pytorch" width="50" height="35"/>
     </a>
     <a href="https://gluon-ts.mxnet.io/" target="_blank" rel="noreferrer">
         <img src="https://ts.gluon.ai/stable/_static/gluonts.svg" alt="gluonTS" width="50" height="50"/>
