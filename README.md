@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<!-- https://www.polyu.edu.hk/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif -->
+<!--         https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif -->
 </head>
 <body >
-<h1 align="center">Hi 👋, I'm Wasim <br> <img  src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="img" style="  height: 205px; width: auto;"></h1>
+<h1 align="center">Hi 👋, I'm Wasim <br> <img  src="https://www.polyu.edu.hk/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif" alt="img" style="  height: 205px; width: auto;"></h1>
 
 <p align="center">Data Scientist/Causality Researcher with expertise in <strong>causal inference</strong>, <strong>machine learning</strong>, and <strong>data-driven decision-making</strong>. 
         Currently pursuing a Ph.D. in Data Science at the Computer Vision Group in Jena, Germany. 
