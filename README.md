@@ -5,7 +5,7 @@
 <!--         https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif -->
 </head>
 <body >
-<h1 align="center">Hi 👋, I'm Wasim <br> <img  src="https://i.pinimg.com/originals/a5/87/eb/a587eb698ff69dad5eff5935acc171e8.gif" alt="img" style="  height: 205px; width: auto;"></h1>
+<h1 align="center">Hi 👋, I'm Wasim <br> <img  src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" alt="img" style="  height: 205px; width: auto;"></h1>
 
 <p align="center">Causality Researcher/Data Scientist with expertise in <strong>causal inference</strong>, <strong>machine learning</strong>, and <strong>data-driven decision-making</strong>. 
         Currently pursuing a Ph.D. in Data Science at the Computer Vision Group in Jena, Germany. 
