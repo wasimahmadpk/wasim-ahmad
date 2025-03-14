@@ -7,7 +7,7 @@
 <body >
 <h1 align="center">Hi 👋, I'm Wasim <br> <img  src="https://www.polyu.edu.hk/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif" alt="img" style="  height: 205px; width: auto;"></h1>
 
-<p align="center">Data Scientist/Causality Researcher with expertise in <strong>causal inference</strong>, <strong>machine learning</strong>, and <strong>data-driven decision-making</strong>. 
+<p align="center">Causality Researcher/Data Scientist with expertise in <strong>causal inference</strong>, <strong>machine learning</strong>, and <strong>data-driven decision-making</strong>. 
         Currently pursuing a Ph.D. in Data Science at the Computer Vision Group in Jena, Germany. 
         My research focuses on causal discovery methods and its applications, i.e., climate-ecosystems interactions, geophysical systems and neuroscience. 
         I have extensive experience working in predictive maintenance, anomaly detection, and sensor data analysis for the rail industry. 
