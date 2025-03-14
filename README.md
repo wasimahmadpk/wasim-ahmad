@@ -72,6 +72,6 @@
         <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="40" height="25"/>
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask Logo" width="50" height="30">
+        <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="Flask Logo" width="50" height="25">
     </a>
 </p>
