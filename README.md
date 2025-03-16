@@ -6,7 +6,7 @@
 <!--         https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif -->
 </head>
 <body >
-<h1 align="center">Hi 👋, I'm Wasim <br> <img  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/it-data-center-2.gif" alt="img" style="  height: 205px; width: auto;"></h1>
+<h1 align="center">Hi 👋, I'm Wasim <br> <img  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/it-data-center-2.gif" alt="img" style="  height: 205px; width: 250px;"></h1>
 
 <p align="center">Causality Researcher/Data Scientist with expertise in <strong>causal inference</strong>, <strong>machine learning</strong>, and <strong>data-driven decision-making</strong>. 
         Currently pursuing a Ph.D. in Data Science at the Computer Vision Group in Jena, Germany. 
